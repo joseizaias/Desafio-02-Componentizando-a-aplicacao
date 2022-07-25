@@ -1,5 +1,3 @@
-# Desafio-02-Componentizando-a-aplicacao
-
 # Desafio 02 - Componentizando a aplicação
 
 # 💻 Sobre o desafio
